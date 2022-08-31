@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SouadSalah
 - 👀 I’m interested in Security Analyst 
-- I am Fresh graduate from liberty University, Bachelor of Cyber Security 2022
+- I am fresh graduate from Liberty University, Bachelor of Cyber Security 2022
 - I’m currently working toward CompTIA Security+ Certificate 
 - Reach me @ souadsalah55@yahoo.com 
 
